@@ -2,19 +2,21 @@
  https://archive.ics.uci.edu/dataset/352/online+retail
 ## Or Simply run this code in your Python envioronment
 !pip install ucimlrepo
-### In the second cell
+
+
+## In the second cell
 from ucimlrepo import fetch_ucirepo 
   
-# fetch dataset 
+### fetch dataset 
 online_retail = fetch_ucirepo(id=352) 
   
-# data (as pandas dataframes) 
+### data (as pandas dataframes) 
 X = online_retail.data.features 
 y = online_retail.data.targets 
   
-# metadata 
+### metadata 
 print(online_retail.metadata) 
   
-# variable information 
+### variable information 
 print(online_retail.variables) 
 
