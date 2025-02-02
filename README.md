@@ -16,7 +16,7 @@ Technolotgy Used
    ```bash
    git clone https://github.com/yourusername/retail-data-analysis.git
 ## Data Source: 
-The dataset is sourced from UC Irvine. It is a big data that contains transaction details such as product, quantity, revenue, etc.
+The dataset is sourced from UC Irvine. It is a big data that contains transaction details such as product, quantity, revenue, etc. You can download the raw data here:
 https://archive.ics.uci.edu/dataset/352/online+retail
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
