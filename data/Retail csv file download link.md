@@ -1,10 +1,22 @@
-## The Download Link of Raw retail.csv
+# Method 1
+### The Download Link of Raw retail.csv
  https://archive.ics.uci.edu/dataset/352/online+retail
-## Or Simply run this code in your Python envioronment
+
+# Method 2
+### Direct Download to your Python Envioronment
+data_url = 'https://archive.ics.uci.edu/static/public/352/data.csv'
+
+retail = pd.read_csv(data_url)
+
+print(retail.shape)
+
+print(retail.columns)
+
+# Method 3
 !pip install ucimlrepo
 
 
-## In the second cell
+### In the second cell
 from ucimlrepo import fetch_ucirepo 
   
 ### fetch dataset 
