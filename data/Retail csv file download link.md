@@ -6,11 +6,11 @@
 ### Direct Download to your Python Envioronment
 data_url = 'https://archive.ics.uci.edu/static/public/352/data.csv'
 
-retail = pd.read_csv(data_url)
+df = pd.read_csv(data_url)
 
-print(retail.shape)
+print(df.shape)
 
-print(retail.columns)
+print(df.columns)
 
 # Method 3
 !pip install ucimlrepo
