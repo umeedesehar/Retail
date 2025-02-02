@@ -22,4 +22,4 @@ https://archive.ics.uci.edu/dataset/352/online+retail
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 ## Contact
 - [LinkedIn]
-- ([https://www.linkedinourprofile.com/in/y](https://www.linkedin.com/in/zaheera-hanif-492455286/))
+  ([https://www.linkedinourprofile.com/in/y](https://www.linkedin.com/in/zaheera-hanif-492455286/))
